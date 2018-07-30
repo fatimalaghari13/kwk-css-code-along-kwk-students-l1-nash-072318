@@ -1,1 +1,43 @@
 /* add CSS class and element and selectors here */
+
+h1 {color:green;}
+p {color:purple;}
+
+
+.example {
+  color:gray;
+  font-size:14px;
+}
+
+ body {
+      background-color: red;
+      font-size: 150%;
+    }
+    
+ .myClass {
+      background-color: gray;
+      color: blue
+    }
+    h3 {font-size:300%;}
+    
+    div {border: 1px dotted black;>
+    
+    body {color:green;}
+    p {color:green;}
+    
+h1 {
+    text-align: center;
+  
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 3px 2px gray;
+}
